@@ -1,0 +1,39 @@
+body {
+    background: #4466;
+    font-family: Century;
+    height: 100vh;
+  } 
+  
+  .menu{
+    background-color: #0044;
+    }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+  list-style: none;
+  }
+  
+  a{
+    color: white;
+    text-decoration: None;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle
+  {
+    font-style: italic;
+  }
+  
+  
